@@ -1,0 +1,40 @@
+h1 {
+color: aqua;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body{
+    background-color: darkgreen;
+}
+
+.nama{
+    color: darkgreen;
+}
+
+.sekolah{
+    color: aquamarine;
+}
+
+.alamat{
+    color: dodgerblue;
+}
+
+.cita-cita{
+    color: chartreuse;
+}
+
+.hobbi{
+    color: crimson;
+}
+
+.quote{
+    color: orchid;
+}
+
+p{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
